@@ -1,0 +1,3306 @@
+{
+  "sale": {
+    "name": "Winter Sale",
+    "pct": 20,
+    "ends": "2026-11-01T18:59:59.000Z"
+  },
+  "policy": {
+    "freeDeliveryFrom": 10000,
+    "deliveryFee": 250
+  },
+  "contact": {
+    "whatsapp": "923217429067",
+    "instagram": "vel_nor7",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "products": [
+    {
+      "handle": "plain-belted-coat",
+      "title": "Plain Belted Coat",
+      "productType": "Coats",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Coats",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "justIn": true,
+      "colour": {
+        "name": "Camel",
+        "hex": "#C49A6C"
+      },
+      "price": 11500,
+      "compareAt": 14400,
+      "salePct": 20,
+      "description": "A clean, fitted wool-look coat with notch lapels, a tie belt at the waist and a gentle A-line skirt. In camel and black.",
+      "about": "An everyday winter coat that goes with everything. Notch lapels, a seamed waist and a tie belt give it shape, and the skirt flares gently to just above the knee. It comes in camel and in black. Wear it belted over knitwear, or open over a dress. Coats do not stretch, so check the shoulder and sleeve measurements and leave room for your layers.",
+      "details": [
+        "Notch lapels",
+        "Tie belt with belt loops",
+        "Seamed, fitted waist",
+        "Gentle A-line skirt",
+        "Two pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "colours": [
+        {
+          "key": "camel",
+          "name": "Camel",
+          "hex": "#C49A6C",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/camel/card.webp?v=20261023",
+              "w": 617,
+              "h": 900,
+              "alt": "Plain Belted Coat in camel, front view",
+              "srcset": "/img/plain-belted-coat/camel/card-s.webp?v=20261023 411w, /img/plain-belted-coat/camel/card.webp?v=20261023 617w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/camel/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/plain-belted-coat/camel/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Plain Belted Coat in camel on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/camel/detail-1.webp?v=20261021",
+              "w": 602,
+              "h": 619,
+              "alt": "Close-up of the notch lapels and front buttons"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/camel/detail-2.webp?v=20261021",
+              "w": 754,
+              "h": 516,
+              "alt": "Close-up of the tie belt and pockets"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/camel/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/plain-belted-coat/camel/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Plain Belted Coat in camel's neckline"
+            }
+          ]
+        },
+        {
+          "key": "black",
+          "name": "Black",
+          "hex": "#1E1C1B",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/black/card.webp?v=20261023",
+              "w": 643,
+              "h": 900,
+              "alt": "Plain Belted Coat in black, front view",
+              "srcset": "/img/plain-belted-coat/black/card-s.webp?v=20261023 429w, /img/plain-belted-coat/black/card.webp?v=20261023 643w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/black/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/plain-belted-coat/black/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Plain Belted Coat in black on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/black/detail-1.webp?v=20261021",
+              "w": 584,
+              "h": 588,
+              "alt": "Close-up of the notch lapels and front buttons"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/black/detail-2.webp?v=20261021",
+              "w": 732,
+              "h": 491,
+              "alt": "Close-up of the tie belt and pockets"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/plain-belted-coat/black/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/plain-belted-coat/black/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Plain Belted Coat in black's neckline"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/plain-belted-coat/camel/card.webp?v=20261023",
+          "w": 617,
+          "h": 900,
+          "alt": "Plain Belted Coat in camel, front view",
+          "srcset": "/img/plain-belted-coat/camel/card-s.webp?v=20261023 411w, /img/plain-belted-coat/camel/card.webp?v=20261023 617w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/plain-belted-coat/camel/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/plain-belted-coat/camel/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Plain Belted Coat in camel on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/plain-belted-coat/camel/detail-1.webp?v=20261021",
+          "w": 602,
+          "h": 619,
+          "alt": "Close-up of the notch lapels and front buttons"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/plain-belted-coat/camel/detail-2.webp?v=20261021",
+          "w": 754,
+          "h": 516,
+          "alt": "Close-up of the tie belt and pockets"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/plain-belted-coat/camel/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/plain-belted-coat/camel/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Plain Belted Coat in camel's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-PB-XS",
+          "inventory": 3
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-PB-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-PB-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-PB-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-PB-XL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "suede-faux-fur-coat",
+        "celadon-faux-fur-coat",
+        "cream-tailored-coat"
+      ]
+    },
+    {
+      "handle": "suede-faux-fur-coat",
+      "title": "Suede-Blend Faux-Fur Coat",
+      "productType": "Coats",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Coats",
+        "New in",
+        "Winter 26",
+        "Faux fur"
+      ],
+      "isNew": true,
+      "justIn": true,
+      "colour": {
+        "name": "Grey",
+        "hex": "#A7A9AB"
+      },
+      "price": 15999,
+      "compareAt": 20000,
+      "salePct": 20,
+      "description": "A soft suede-blend coat with a large faux-fur shawl collar and cuffs, pearl buttons and a tie belt. In grey and light grey.",
+      "about": "Our warmest coat this season. The soft suede-blend fabric is framed by a large faux-fur shawl collar and wide fur cuffs, with pearl buttons and a tie belt at the fitted waist. It comes in a cool grey and a warm light grey. Wear it over knitwear for winter evenings, weddings and outings. The cut is fitted, so if you plan to layer a thick sweater underneath, consider the next size up.",
+      "details": [
+        "Suede-blend fabric",
+        "Faux-fur shawl collar and cuffs",
+        "Pearl buttons",
+        "Tie belt with belt loops",
+        "Fitted, seamed waist"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "colours": [
+        {
+          "key": "grey",
+          "name": "Grey",
+          "hex": "#A7A9AB",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/card.webp?v=20261023",
+              "w": 682,
+              "h": 900,
+              "alt": "Suede-Blend Faux-Fur Coat in grey, front view",
+              "srcset": "/img/suede-faux-fur-coat/grey/card-s.webp?v=20261023 455w, /img/suede-faux-fur-coat/grey/card.webp?v=20261023 682w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Suede-Blend Faux-Fur Coat in grey on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/detail-1.webp?v=20261021",
+              "w": 660,
+              "h": 597,
+              "alt": "Close-up of the faux-fur shawl collar and pearl buttons"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/detail-2.webp?v=20261021",
+              "w": 826,
+              "h": 498,
+              "alt": "Close-up of the tie belt and fur cuffs"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Suede-Blend Faux-Fur Coat in grey's neckline"
+            }
+          ]
+        },
+        {
+          "key": "light-grey",
+          "name": "Light grey",
+          "hex": "#BDB5AA",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/card.webp?v=20261023",
+              "w": 686,
+              "h": 900,
+              "alt": "Suede-Blend Faux-Fur Coat in light grey, front view",
+              "srcset": "/img/suede-faux-fur-coat/light-grey/card-s.webp?v=20261023 457w, /img/suede-faux-fur-coat/light-grey/card.webp?v=20261023 686w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Suede-Blend Faux-Fur Coat in light grey on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/detail-1.webp?v=20261021",
+              "w": 684,
+              "h": 596,
+              "alt": "Close-up of the faux-fur shawl collar and pearl buttons"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/detail-2.webp?v=20261021",
+              "w": 854,
+              "h": 497,
+              "alt": "Close-up of the tie belt and fur cuffs"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/suede-faux-fur-coat/light-grey/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Suede-Blend Faux-Fur Coat in light grey's neckline"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/card.webp?v=20261023",
+          "w": 682,
+          "h": 900,
+          "alt": "Suede-Blend Faux-Fur Coat in grey, front view",
+          "srcset": "/img/suede-faux-fur-coat/grey/card-s.webp?v=20261023 455w, /img/suede-faux-fur-coat/grey/card.webp?v=20261023 682w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Suede-Blend Faux-Fur Coat in grey on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/detail-1.webp?v=20261021",
+          "w": 660,
+          "h": 597,
+          "alt": "Close-up of the faux-fur shawl collar and pearl buttons"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/detail-2.webp?v=20261021",
+          "w": 826,
+          "h": 498,
+          "alt": "Close-up of the tie belt and fur cuffs"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/suede-faux-fur-coat/grey/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Suede-Blend Faux-Fur Coat in grey's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-SF-XS",
+          "inventory": 3
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-SF-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-SF-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-SF-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-SF-XL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "plain-belted-coat",
+        "celadon-faux-fur-coat",
+        "chocolate-faux-fur-jacket"
+      ]
+    },
+    {
+      "handle": "camel-striped-zip-bomber",
+      "title": "Camel Striped Zip Bomber",
+      "productType": "Cardigans",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "justIn": true,
+      "colour": {
+        "name": "Camel",
+        "hex": "#8C6A4F"
+      },
+      "price": 5000,
+      "compareAt": 6250,
+      "salePct": 20,
+      "description": "New: a men's zip-front knit bomber in camel with cream stripes, knitted in our new 9 mm yarn, with a ribbed collar, cuffs and hem.",
+      "about": "New this season and knitted in our new 9 mm yarn, a fuller, warmer knit than our earlier bombers. Cream stripes run down the camel body over a diagonal rib, with a black zip, side pockets and a ribbed stand collar, cuffs and hem. The zip front makes it easy to wear over a shirt or a tee. Check the size guide to find your size.",
+      "details": [
+        "New 9 mm yarn knit",
+        "Zip front",
+        "Cream stripes on a diagonal rib",
+        "Two side pockets",
+        "Ribbed stand collar, cuffs and hem"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/camel-striped-zip-bomber/card.webp?v=20261023",
+          "w": 800,
+          "h": 900,
+          "alt": "Camel Striped Zip Bomber, front view",
+          "srcset": "/img/camel-striped-zip-bomber/card-s.webp?v=20261023 533w, /img/camel-striped-zip-bomber/card.webp?v=20261023 800w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/camel-striped-zip-bomber/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/camel-striped-zip-bomber/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Camel Striped Zip Bomber on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/camel-striped-zip-bomber/detail-1.webp?v=20261021",
+          "w": 716,
+          "h": 556,
+          "alt": "Close-up of the striped knit and zip"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/camel-striped-zip-bomber/detail-2.webp?v=20261021",
+          "w": 896,
+          "h": 463,
+          "alt": "Close-up of the side pockets and ribbed hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/camel-striped-zip-bomber/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/camel-striped-zip-bomber/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Camel Striped Zip Bomber's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-CS-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-CS-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-CS-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-CS-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-CS-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "brown-gold-zip-bomber",
+        "textured-zip-bomber",
+        "brown-tweed-zip-bomber"
+      ]
+    },
+    {
+      "handle": "brown-gold-zip-bomber",
+      "title": "Brown Gold-Zip Bomber",
+      "productType": "Cardigans",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "justIn": true,
+      "colour": {
+        "name": "Brown",
+        "hex": "#5A3F2E"
+      },
+      "price": 5000,
+      "compareAt": 6250,
+      "salePct": 20,
+      "description": "New: a men's zip-front knit bomber in brown with a diagonal stripe, knitted in our new 9 mm yarn, with a gold zip and ribbed collar, cuffs and hem.",
+      "about": "New this season and knitted in our new 9 mm yarn, a fuller, warmer knit than our earlier bombers. A brown and tan diagonal stripe covers the body and sleeves, with a dark flecked panel either side of the gold zip, side pockets and a ribbed stand collar, cuffs and hem. It sits well over a shirt in the colder months. Check the size guide to find your size.",
+      "details": [
+        "New 9 mm yarn knit",
+        "Gold zip front",
+        "Diagonal stripe knit",
+        "Two side pockets",
+        "Ribbed stand collar, cuffs and hem"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/brown-gold-zip-bomber/card.webp?v=20261023",
+          "w": 792,
+          "h": 900,
+          "alt": "Brown Gold-Zip Bomber, front view",
+          "srcset": "/img/brown-gold-zip-bomber/card-s.webp?v=20261023 528w, /img/brown-gold-zip-bomber/card.webp?v=20261023 792w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/brown-gold-zip-bomber/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/brown-gold-zip-bomber/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Brown Gold-Zip Bomber on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/brown-gold-zip-bomber/detail-1.webp?v=20261021",
+          "w": 708,
+          "h": 569,
+          "alt": "Close-up of the diagonal stripe knit and gold zip"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/brown-gold-zip-bomber/detail-2.webp?v=20261021",
+          "w": 884,
+          "h": 474,
+          "alt": "Close-up of the side pockets and ribbed hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/brown-gold-zip-bomber/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/brown-gold-zip-bomber/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Brown Gold-Zip Bomber's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-BG-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-BG-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-BG-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-BG-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-BG-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "camel-striped-zip-bomber",
+        "brown-tweed-zip-bomber",
+        "textured-zip-bomber"
+      ]
+    },
+    {
+      "handle": "zigzag-fringe-cardigan",
+      "title": "Zig-zag Fringe Cardigan",
+      "productType": "Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Cream",
+        "hex": "#E9E1D2"
+      },
+      "price": 5500,
+      "compareAt": 6900,
+      "salePct": 20,
+      "description": "Cream knit with sand zig-zag bands, gold turn-lock toggles on black leather tabs and a knotted fringe hem.",
+      "about": "A cardigan with real detail to look at. The sand zig-zag bands run across the cream knit, and the knotted fringe hem moves as you walk. The open shawl collar and two patch pockets keep it easy to wear. Wear it over a plain tee or shirt in the colder months, or open over a dress. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Zig-zag bands in sand",
+        "Two gold-tone turn-lock toggles",
+        "Knotted fringe hem with bead tips",
+        "Two patch pockets",
+        "Open shawl collar"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/zigzag-fringe-cardigan/card.webp?v=20261023",
+          "w": 647,
+          "h": 900,
+          "alt": "Zig-zag Fringe Cardigan, front view",
+          "srcset": "/img/zigzag-fringe-cardigan/card-s.webp?v=20261023 431w, /img/zigzag-fringe-cardigan/card.webp?v=20261023 647w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/zigzag-fringe-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/zigzag-fringe-cardigan/studio-light.webp?v=20261023",
+          "w": 1006,
+          "h": 1500,
+          "alt": "Zig-zag Fringe Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/zigzag-fringe-cardigan/detail-1.webp?v=20261021",
+          "w": 520,
+          "h": 480,
+          "alt": "Close-up of the gold turn-lock toggles on black leather tabs"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/zigzag-fringe-cardigan/detail-2.webp?v=20261021",
+          "w": 1400,
+          "h": 600,
+          "alt": "Close-up of the knotted fringe hem with bead tips"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/zigzag-fringe-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/zigzag-fringe-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 821,
+          "alt": "The VELNOR7 collar tag sewn into the Zig-zag Fringe Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-ZZ-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "pearl-button-mesh-cardigan",
+        "celadon-faux-fur-coat",
+        "cream-tailored-coat"
+      ]
+    },
+    {
+      "handle": "celadon-faux-fur-coat",
+      "title": "Celadon Faux-Fur Coat",
+      "productType": "Coats",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Coats",
+        "New in",
+        "Winter 26",
+        "Faux fur"
+      ],
+      "isNew": true,
+      "justIn": true,
+      "colour": {
+        "name": "Celadon",
+        "hex": "#A9C4BC"
+      },
+      "price": 13000,
+      "compareAt": 16250,
+      "salePct": 20,
+      "description": "A fitted coat with a faux-fur collar and cuffs and a tie belt at the waist. In celadon with grey fur, and new in cream with beige fur.",
+      "about": "A statement coat for cold evenings. The faux-fur collar and cuffs frame the soft body, and the tie belt and seamed waist give it a fitted shape. It comes in celadon with grey fur and, new this season, in cream with beige fur. Wear it over knitwear for dinners, weddings and winter outings. The cut is fitted, so if you plan to layer a thick sweater underneath, consider the next size up. Care is simple: hand wash cold and dry flat in shade.",
+      "details": [
+        "Faux-fur collar and cuffs",
+        "Tie belt with belt loops",
+        "Statement front buttons",
+        "Fitted, seamed waist"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "colours": [
+        {
+          "key": "celadon",
+          "name": "Celadon",
+          "hex": "#A9C4BC",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/card.webp?v=20261023",
+              "w": 521,
+              "h": 900,
+              "alt": "Celadon Faux-Fur Coat in celadon, front view",
+              "srcset": "/img/celadon-faux-fur-coat/card-s.webp?v=20261023 347w, /img/celadon-faux-fur-coat/card.webp?v=20261023 521w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/celadon-faux-fur-coat/studio-light.webp?v=20261023",
+              "w": 1006,
+              "h": 1500,
+              "alt": "Celadon Faux-Fur Coat in celadon on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/detail-1.webp?v=20261021",
+              "w": 540,
+              "h": 560,
+              "alt": "Close-up of the grey faux-fur collar"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/detail-2.webp?v=20261021",
+              "w": 500,
+              "h": 460,
+              "alt": "Close-up of the crackle-glaze buttons and tie belt"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/celadon-faux-fur-coat/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Celadon Faux-Fur Coat in celadon's neckline"
+            }
+          ]
+        },
+        {
+          "key": "cream",
+          "name": "Cream",
+          "hex": "#EDE5D6",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/card.webp?v=20261023",
+              "w": 671,
+              "h": 900,
+              "alt": "Celadon Faux-Fur Coat in cream, front view",
+              "srcset": "/img/celadon-faux-fur-coat/cream/card-s.webp?v=20261023 447w, /img/celadon-faux-fur-coat/cream/card.webp?v=20261023 671w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Celadon Faux-Fur Coat in cream on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/detail-1.webp?v=20261021",
+              "w": 621,
+              "h": 605,
+              "alt": "Close-up of the beige faux-fur collar and front buttons"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/detail-2.webp?v=20261021",
+              "w": 777,
+              "h": 504,
+              "alt": "Close-up of the waist seams and pockets"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/celadon-faux-fur-coat/cream/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Celadon Faux-Fur Coat in cream's neckline"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/card.webp?v=20261023",
+          "w": 521,
+          "h": 900,
+          "alt": "Celadon Faux-Fur Coat in celadon, front view",
+          "srcset": "/img/celadon-faux-fur-coat/card-s.webp?v=20261023 347w, /img/celadon-faux-fur-coat/card.webp?v=20261023 521w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/celadon-faux-fur-coat/studio-light.webp?v=20261023",
+          "w": 1006,
+          "h": 1500,
+          "alt": "Celadon Faux-Fur Coat in celadon on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/detail-1.webp?v=20261021",
+          "w": 540,
+          "h": 560,
+          "alt": "Close-up of the grey faux-fur collar"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/detail-2.webp?v=20261021",
+          "w": 500,
+          "h": 460,
+          "alt": "Close-up of the crackle-glaze buttons and tie belt"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/celadon-faux-fur-coat/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/celadon-faux-fur-coat/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Celadon Faux-Fur Coat in celadon's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-CF-XS",
+          "inventory": 2
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-CF-S",
+          "inventory": 4
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-CF-M",
+          "inventory": 1
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-CF-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-CF-XL",
+          "inventory": 2
+        }
+      ],
+      "related": [
+        "cream-tailored-coat",
+        "zigzag-fringe-cardigan",
+        "pearl-button-mesh-cardigan"
+      ]
+    },
+    {
+      "handle": "cream-tailored-coat",
+      "title": "Cream Tailored Coat",
+      "productType": "Coats",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Coats",
+        "Winter 26",
+        "Pearl"
+      ],
+      "isNew": false,
+      "colour": {
+        "name": "Cream",
+        "hex": "#EEE8DC"
+      },
+      "price": 10500,
+      "compareAt": 13150,
+      "salePct": 20,
+      "description": "A clean cream coat with notch lapels, topstitched edges and pearl-crackle buttons.",
+      "about": "A clean, tailored coat that works with almost everything in your winter wardrobe. Notch lapels, topstitched edges and pearl-crackle buttons give it a polished line without extra decoration. It suits office days, family occasions and everyday wear alike. Wear it over a knit or a blouse. The fit is tailored, so check the size guide and choose the larger size if you want room for a heavier layer underneath.",
+      "details": [
+        "Notch lapels with topstitched edges",
+        "Pearl-crackle buttons",
+        "Clean, fitted line"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/cream-tailored-coat/card.webp?v=20261023",
+          "w": 701,
+          "h": 900,
+          "alt": "Cream Tailored Coat, front view",
+          "srcset": "/img/cream-tailored-coat/card-s.webp?v=20261023 467w, /img/cream-tailored-coat/card.webp?v=20261023 701w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/cream-tailored-coat/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/cream-tailored-coat/studio-light.webp?v=20261023",
+          "w": 1208,
+          "h": 1500,
+          "alt": "Cream Tailored Coat on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/cream-tailored-coat/detail-1.webp?v=20261021",
+          "w": 620,
+          "h": 560,
+          "alt": "Close-up of the notch lapels"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/cream-tailored-coat/detail-2.webp?v=20261021",
+          "w": 700,
+          "h": 580,
+          "alt": "Close-up of the pearl-crackle buttons"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/cream-tailored-coat/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/cream-tailored-coat/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 821,
+          "alt": "The VELNOR7 collar tag sewn into the Cream Tailored Coat's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-TC-XS",
+          "inventory": 4
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-TC-S",
+          "inventory": 5
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-TC-M",
+          "inventory": 6
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-TC-L",
+          "inventory": 2
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-TC-XL",
+          "inventory": 1
+        }
+      ],
+      "related": [
+        "celadon-faux-fur-coat",
+        "zigzag-fringe-cardigan",
+        "textured-v-neck-sweater"
+      ]
+    },
+    {
+      "handle": "pearl-button-mesh-cardigan",
+      "title": "Pearl-Button Mesh Cardigan",
+      "productType": "Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Cardigans",
+        "New in",
+        "Winter 26",
+        "Pearl"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Sage grey",
+        "hex": "#B7B8AA"
+      },
+      "price": 5500,
+      "compareAt": 6900,
+      "salePct": 20,
+      "description": "An open rib-knit cardigan in sage grey with cream trims, pearl buttons and a dotted intarsia at the chest.",
+      "about": "A light, open rib-knit cardigan in sage grey, trimmed in cream at the yoke and edges. The pearl buttons run down the front, and a dotted intarsia sits at the chest. It is an easy layer for mild winter days and a good partner for a plain top or a coat. Two patch pockets keep it practical. Check the size guide, and take the larger size for a looser drape.",
+      "details": [
+        "Open rib knit",
+        "Cream contrast trims and yoke",
+        "Pearl buttons down the front",
+        "Dotted intarsia at the chest",
+        "Two patch pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/card.webp?v=20261023",
+          "w": 714,
+          "h": 900,
+          "alt": "Pearl-Button Mesh Cardigan, front view",
+          "srcset": "/img/pearl-button-mesh-cardigan/card-s.webp?v=20261023 476w, /img/pearl-button-mesh-cardigan/card.webp?v=20261023 714w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/studio-light.webp?v=20261023",
+          "w": 1208,
+          "h": 1500,
+          "alt": "Pearl-Button Mesh Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/detail-1.webp?v=20261021",
+          "w": 420,
+          "h": 560,
+          "alt": "Close-up of the pearl buttons on the cream placket"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/detail-2.webp?v=20261021",
+          "w": 520,
+          "h": 580,
+          "alt": "Close-up of the dotted intarsia and patch pocket"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/pearl-button-mesh-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 821,
+          "alt": "The VELNOR7 collar tag sewn into the Pearl-Button Mesh Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-PM-XS",
+          "inventory": 5
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-PM-S",
+          "inventory": 7
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-PM-M",
+          "inventory": 4
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-PM-L",
+          "inventory": 5
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-PM-XL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "zigzag-fringe-cardigan",
+        "cream-tailored-coat",
+        "celadon-faux-fur-coat"
+      ]
+    },
+    {
+      "handle": "textured-v-neck-sweater",
+      "title": "Textured V-Neck Sweater",
+      "productType": "Sweaters",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Sweaters",
+        "Winter 26"
+      ],
+      "isNew": false,
+      "colour": {
+        "name": "Heather grey",
+        "hex": "#8E8E90"
+      },
+      "price": 5500,
+      "compareAt": 6900,
+      "salePct": 20,
+      "description": "A heather grey V-neck in a textured knit, crossed with diagonal seams and finished with ribbed trims.",
+      "about": "A men's V-neck in heather grey that works for work, weekends and everything between. The textured knit surface and diagonal crossing seams add interest without making it loud, and the ribbed neck, cuffs and hem hold the shape. Wear it over a collared shirt or on its own. Choose your usual size, or the larger one if you like to layer underneath. See the size guide for chest, shoulder, sleeve and length.",
+      "details": [
+        "Textured knit surface",
+        "Diagonal crossing seams",
+        "Ribbed V-neck, cuffs and hem"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/textured-v-neck-sweater/card.webp?v=20261023",
+          "w": 801,
+          "h": 900,
+          "alt": "Textured V-Neck Sweater, front view",
+          "srcset": "/img/textured-v-neck-sweater/card-s.webp?v=20261023 534w, /img/textured-v-neck-sweater/card.webp?v=20261023 801w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/textured-v-neck-sweater/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/textured-v-neck-sweater/studio-light.webp?v=20261023",
+          "w": 1208,
+          "h": 1500,
+          "alt": "Textured V-Neck Sweater on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/textured-v-neck-sweater/detail-1.webp?v=20261021",
+          "w": 540,
+          "h": 480,
+          "alt": "Close-up of the ribbed V-neck"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/textured-v-neck-sweater/detail-2.webp?v=20261021",
+          "w": 700,
+          "h": 560,
+          "alt": "Close-up of the textured knit and diagonal seams"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/textured-v-neck-sweater/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/textured-v-neck-sweater/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Textured V-Neck Sweater's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-TV-S",
+          "inventory": 6
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-TV-M",
+          "inventory": 8
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-TV-L",
+          "inventory": 2
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-TV-XL",
+          "inventory": 5
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-TV-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "cream-tailored-coat",
+        "zigzag-fringe-cardigan",
+        "celadon-faux-fur-coat"
+      ]
+    },
+    {
+      "handle": "grey-crackle-button-coat",
+      "title": "Grey Crackle-Button Coat",
+      "productType": "Coats",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Coats",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Grey",
+        "hex": "#A6A29A"
+      },
+      "price": 11500,
+      "compareAt": 14400,
+      "salePct": 20,
+      "description": "A textured grey coat with a wide notch collar and three crackle-glaze buttons down the front.",
+      "about": "A grey coat with a textured, tweed-look wool surface and a wide notch collar. Three crackle-glaze buttons close the front, and the seamed waist gives a fitted shape, with besom pockets for your hands. It is a strong everyday winter coat that goes over knitwear and tailored pieces alike. If you want room for a thick sweater underneath, choose the larger size. See the size guide for measurements.",
+      "details": [
+        "Textured tweed-look wool",
+        "Three crackle-glaze buttons",
+        "Fitted, seamed waist",
+        "Besom pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/grey-crackle-button-coat/card.webp?v=20261023",
+          "w": 681,
+          "h": 900,
+          "alt": "Grey Crackle-Button Coat, front view",
+          "srcset": "/img/grey-crackle-button-coat/card-s.webp?v=20261023 454w, /img/grey-crackle-button-coat/card.webp?v=20261023 681w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/grey-crackle-button-coat/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/grey-crackle-button-coat/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Grey Crackle-Button Coat on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/grey-crackle-button-coat/detail-1.webp?v=20261021",
+          "w": 344,
+          "h": 437,
+          "alt": "Close-up of the crackle-glaze buttons"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/grey-crackle-button-coat/detail-2.webp?v=20261021",
+          "w": 608,
+          "h": 273,
+          "alt": "Close-up of the notch collar and shoulder seam"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/grey-crackle-button-coat/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/grey-crackle-button-coat/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 821,
+          "alt": "The VELNOR7 collar tag sewn into the Grey Crackle-Button Coat's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-GC-XS",
+          "inventory": 3
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-GC-S",
+          "inventory": 6
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-GC-M",
+          "inventory": 4
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-GC-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-GC-XL",
+          "inventory": 1
+        }
+      ],
+      "related": [
+        "cream-tailored-coat",
+        "chocolate-faux-fur-jacket",
+        "celadon-faux-fur-coat"
+      ]
+    },
+    {
+      "handle": "chocolate-faux-fur-jacket",
+      "title": "Chocolate Faux-Fur Jacket",
+      "productType": "Coats",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Coats",
+        "New in",
+        "Winter 26",
+        "Faux fur"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Chocolate",
+        "hex": "#4A3A2E"
+      },
+      "price": 11500,
+      "compareAt": 14400,
+      "salePct": 20,
+      "description": "A cropped chocolate faux-fur jacket with a notch collar, patch pockets and gold-tone buttons.",
+      "about": "A cropped jacket in plush chocolate faux fur, with a notch collar, two patch pockets and gold-tone front buttons. The shorter length sits well over dresses, trousers and high-waisted skirts, and the dark colour pairs with cream, grey and black knitwear. Take your usual size, or the larger for a roomier fit over layers. Care for it by hand washing cold and drying flat in shade.",
+      "details": [
+        "Plush faux-fur body",
+        "Notch collar",
+        "Two patch pockets",
+        "Gold-tone front buttons"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/card.webp?v=20261023",
+          "w": 803,
+          "h": 900,
+          "alt": "Chocolate Faux-Fur Jacket, front view",
+          "srcset": "/img/chocolate-faux-fur-jacket/card-s.webp?v=20261023 535w, /img/chocolate-faux-fur-jacket/card.webp?v=20261023 803w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/studio-light.webp?v=20261023",
+          "w": 1120,
+          "h": 1500,
+          "alt": "Chocolate Faux-Fur Jacket on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/detail-1.webp?v=20261021",
+          "w": 550,
+          "h": 450,
+          "alt": "Close-up of the notch collar and lapel"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/detail-2.webp?v=20261021",
+          "w": 550,
+          "h": 450,
+          "alt": "Close-up of the patch pocket and button placket"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/chocolate-faux-fur-jacket/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 821,
+          "alt": "The VELNOR7 collar tag sewn into the Chocolate Faux-Fur Jacket's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "XS",
+          "sku": "VN-W-CJ-XS",
+          "inventory": 2
+        },
+        {
+          "size": "S",
+          "sku": "VN-W-CJ-S",
+          "inventory": 4
+        },
+        {
+          "size": "M",
+          "sku": "VN-W-CJ-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-W-CJ-L",
+          "inventory": 2
+        },
+        {
+          "size": "XL",
+          "sku": "VN-W-CJ-XL",
+          "inventory": 1
+        }
+      ],
+      "related": [
+        "grey-crackle-button-coat",
+        "celadon-faux-fur-coat",
+        "cream-tailored-coat"
+      ]
+    },
+    {
+      "handle": "charcoal-colourblock-crew",
+      "title": "Charcoal Colourblock Crew",
+      "productType": "Sweaters",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Sweaters",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Charcoal",
+        "hex": "#2B2B2B"
+      },
+      "price": 4200,
+      "compareAt": 5250,
+      "salePct": 20,
+      "description": "A men's crewneck knit in black, charcoal and grey with a diagonal colourblock diamond pattern.",
+      "about": "A men's crewneck knit built around a diagonal colourblock diamond pattern in black, charcoal and grey, with contrast black sleeves. The ribbed collar, cuffs and hem keep the shape. It is the more graphic piece in the range, and it works over a plain collared shirt or a simple tee. Check the size guide to find your size.",
+      "details": [
+        "Diagonal colourblock diamond pattern",
+        "Ribbed crew collar, cuffs and hem",
+        "Contrast black sleeves"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/charcoal-colourblock-crew/card.webp?v=20261023",
+          "w": 784,
+          "h": 900,
+          "alt": "Charcoal Colourblock Crew, front view",
+          "srcset": "/img/charcoal-colourblock-crew/card-s.webp?v=20261023 523w, /img/charcoal-colourblock-crew/card.webp?v=20261023 784w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/charcoal-colourblock-crew/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/charcoal-colourblock-crew/studio-light.webp?v=20261023",
+          "w": 1120,
+          "h": 1500,
+          "alt": "Charcoal Colourblock Crew on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/charcoal-colourblock-crew/detail-1.webp?v=20261021",
+          "w": 760,
+          "h": 640,
+          "alt": "Close-up of the colourblock diamond pattern"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/charcoal-colourblock-crew/detail-2.webp?v=20261021",
+          "w": 720,
+          "h": 420,
+          "alt": "Close-up of the ribbed hem and cuff"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/charcoal-colourblock-crew/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/charcoal-colourblock-crew/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Charcoal Colourblock Crew's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-CC-S",
+          "inventory": 5
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-CC-M",
+          "inventory": 5
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-CC-L",
+          "inventory": 5
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-CC-XL",
+          "inventory": 5
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-CC-XXL",
+          "inventory": 5
+        }
+      ],
+      "related": [
+        "textured-v-neck-sweater",
+        "cream-tailored-coat"
+      ]
+    },
+    {
+      "handle": "plum-floral-cardigan",
+      "title": "Plum Floral Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Dusty rose",
+        "hex": "#C98B8F"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A dusty-rose round-neck cardigan with plum floral embroidery, bead detail, gold-tone buttons and a woven band at the hem and cuffs.",
+      "about": "A cardigan to dress up. The plum flowers and leaves are embroidered across the chest and finished with fine beads, and the woven band at the hem and cuffs gives the dusty-rose knit a clear border. The neckline is round and the shape is fitted at the waist. Wear it over a plain blouse or a high-neck top. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Plum floral embroidery with bead detail",
+        "Gold-tone buttons down the front",
+        "Woven band at the hem and cuffs",
+        "Round neckline, fitted waist"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/plum-floral-cardigan/card.webp?v=20261023",
+          "w": 782,
+          "h": 900,
+          "alt": "Plum Floral Cardigan, front view",
+          "srcset": "/img/plum-floral-cardigan/card-s.webp?v=20261023 521w, /img/plum-floral-cardigan/card.webp?v=20261023 782w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/plum-floral-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/plum-floral-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Plum Floral Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/plum-floral-cardigan/detail-1.webp?v=20261021",
+          "w": 432,
+          "h": 276,
+          "alt": "Close-up of the embroidered flowers and leaves"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/plum-floral-cardigan/detail-2.webp?v=20261021",
+          "w": 519,
+          "h": 251,
+          "alt": "Close-up of the woven band at the hem and cuffs"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/plum-floral-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/plum-floral-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Plum Floral Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-PF-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "flower-column-cardigan",
+        "dusty-pink-scroll-cardigan",
+        "mauve-lattice-cardigan"
+      ]
+    },
+    {
+      "handle": "flower-column-cardigan",
+      "title": "Flower Column Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Camel",
+        "hex": "#C69C6D"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A round-neck cardigan with columns of embroidered flowers down the front, gold-tone buttons, two flap pockets and patterned cuffs. In camel and olive.",
+      "about": "Two columns of embroidered flowers run down the front of this cardigan, framed by a finer outline pattern. The same motif repeats on the cuffs and the pockets, so the piece looks finished from every side. It comes in camel and olive. The neckline is round and the shape is fitted. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Columns of embroidered flowers down the front",
+        "Two flap pockets",
+        "Patterned cuffs",
+        "Round neckline, gold-tone buttons"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "colours": [
+        {
+          "key": "camel",
+          "name": "Camel",
+          "hex": "#C69C6D",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/card.webp?v=20261023",
+              "w": 815,
+              "h": 900,
+              "alt": "Flower Column Cardigan in camel, front view",
+              "srcset": "/img/flower-column-cardigan/camel/card-s.webp?v=20261023 543w, /img/flower-column-cardigan/camel/card.webp?v=20261023 815w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/flower-column-cardigan/camel/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Flower Column Cardigan in camel on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/detail-1.webp?v=20261021",
+              "w": 441,
+              "h": 270,
+              "alt": "Close-up of the embroidered flower column"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/detail-2.webp?v=20261021",
+              "w": 529,
+              "h": 245,
+              "alt": "Close-up of the pocket and hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/flower-column-cardigan/camel/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Flower Column Cardigan in camel's neckline"
+            }
+          ]
+        },
+        {
+          "key": "olive",
+          "name": "Olive",
+          "hex": "#6B5B2E",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/olive/card.webp?v=20261023",
+              "w": 784,
+              "h": 900,
+              "alt": "Flower Column Cardigan in olive, front view",
+              "srcset": "/img/flower-column-cardigan/olive/card-s.webp?v=20261023 523w, /img/flower-column-cardigan/olive/card.webp?v=20261023 784w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/olive/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/flower-column-cardigan/olive/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Flower Column Cardigan in olive on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/olive/detail-1.webp?v=20261021",
+              "w": 442,
+              "h": 281,
+              "alt": "Close-up of the embroidered flower column"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/olive/detail-2.webp?v=20261021",
+              "w": 530,
+              "h": 256,
+              "alt": "Close-up of the pocket and hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/flower-column-cardigan/olive/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/flower-column-cardigan/olive/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Flower Column Cardigan in olive's neckline"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/card.webp?v=20261023",
+          "w": 815,
+          "h": 900,
+          "alt": "Flower Column Cardigan in camel, front view",
+          "srcset": "/img/flower-column-cardigan/camel/card-s.webp?v=20261023 543w, /img/flower-column-cardigan/camel/card.webp?v=20261023 815w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/flower-column-cardigan/camel/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Flower Column Cardigan in camel on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/detail-1.webp?v=20261021",
+          "w": 441,
+          "h": 270,
+          "alt": "Close-up of the embroidered flower column"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/detail-2.webp?v=20261021",
+          "w": 529,
+          "h": 245,
+          "alt": "Close-up of the pocket and hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/flower-column-cardigan/camel/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/flower-column-cardigan/camel/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Flower Column Cardigan in camel's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-FC-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "camel-scroll-cardigan",
+        "arch-detail-cardigan",
+        "mandala-wave-cardigan"
+      ]
+    },
+    {
+      "handle": "mandala-wave-cardigan",
+      "title": "Mandala Wave Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Camel",
+        "hex": "#C08A52"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A round-neck cardigan with a mandala embroidered on the chest, wave motifs at the hem and cuffs and a scalloped hem. In camel and sea green.",
+      "about": "A large mandala is embroidered on the chest and finished with beads, and a wave motif follows the scalloped hem and the cuffs. The buttons are pearl-effect and the shape is fitted at the waist. It comes in camel and sea green. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Embroidered mandala with bead detail",
+        "Wave motif at the hem and cuffs",
+        "Scalloped hem",
+        "Pearl-effect buttons, round neckline"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "colours": [
+        {
+          "key": "camel",
+          "name": "Camel",
+          "hex": "#C08A52",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/card.webp?v=20261023",
+              "w": 764,
+              "h": 900,
+              "alt": "Mandala Wave Cardigan in camel, front view",
+              "srcset": "/img/mandala-wave-cardigan/camel/card-s.webp?v=20261023 509w, /img/mandala-wave-cardigan/camel/card.webp?v=20261023 764w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Mandala Wave Cardigan in camel on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/detail-1.webp?v=20261021",
+              "w": 388,
+              "h": 254,
+              "alt": "Close-up of the embroidered mandala"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/detail-2.webp?v=20261021",
+              "w": 466,
+              "h": 231,
+              "alt": "Close-up of the wave motif on the scalloped hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Mandala Wave Cardigan in camel's neckline"
+            }
+          ]
+        },
+        {
+          "key": "sea-green",
+          "name": "Sea green",
+          "hex": "#8FBFAF",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/card.webp?v=20261023",
+              "w": 791,
+              "h": 900,
+              "alt": "Mandala Wave Cardigan in sea green, front view",
+              "srcset": "/img/mandala-wave-cardigan/sea-green/card-s.webp?v=20261023 527w, /img/mandala-wave-cardigan/sea-green/card.webp?v=20261023 791w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Mandala Wave Cardigan in sea green on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/detail-1.webp?v=20261021",
+              "w": 419,
+              "h": 264,
+              "alt": "Close-up of the embroidered mandala"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/detail-2.webp?v=20261021",
+              "w": 503,
+              "h": 240,
+              "alt": "Close-up of the wave motif on the scalloped hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/mandala-wave-cardigan/sea-green/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Mandala Wave Cardigan in sea green's neckline"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/card.webp?v=20261023",
+          "w": 764,
+          "h": 900,
+          "alt": "Mandala Wave Cardigan in camel, front view",
+          "srcset": "/img/mandala-wave-cardigan/camel/card-s.webp?v=20261023 509w, /img/mandala-wave-cardigan/camel/card.webp?v=20261023 764w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Mandala Wave Cardigan in camel on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/detail-1.webp?v=20261021",
+          "w": 388,
+          "h": 254,
+          "alt": "Close-up of the embroidered mandala"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/detail-2.webp?v=20261021",
+          "w": 466,
+          "h": 231,
+          "alt": "Close-up of the wave motif on the scalloped hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/mandala-wave-cardigan/camel/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Mandala Wave Cardigan in camel's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-MW-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "flower-column-cardigan",
+        "arch-detail-cardigan",
+        "pistachio-teardrop-cardigan"
+      ]
+    },
+    {
+      "handle": "arch-detail-cardigan",
+      "title": "Arch Detail Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Camel",
+        "hex": "#BF8A4E"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A camel round-neck cardigan with embroidered arches across the chest, a patterned hem band, two patch pockets and copper-tone buttons.",
+      "about": "Rows of embroidered arches sit across the chest of this camel cardigan, with a matching patterned band at the hem and cuffs. The two patch pockets are practical, and the scalloped hem keeps the outline soft. It is a warm everyday cardigan with enough detail to wear out. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Embroidered arches across the chest",
+        "Patterned hem and cuff band",
+        "Two patch pockets",
+        "Copper-tone buttons, scalloped hem"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/arch-detail-cardigan/card.webp?v=20261023",
+          "w": 795,
+          "h": 900,
+          "alt": "Arch Detail Cardigan, front view",
+          "srcset": "/img/arch-detail-cardigan/card-s.webp?v=20261023 530w, /img/arch-detail-cardigan/card.webp?v=20261023 795w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/arch-detail-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/arch-detail-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Arch Detail Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/arch-detail-cardigan/detail-1.webp?v=20261021",
+          "w": 421,
+          "h": 264,
+          "alt": "Close-up of the embroidered arches"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/arch-detail-cardigan/detail-2.webp?v=20261021",
+          "w": 505,
+          "h": 240,
+          "alt": "Close-up of the patterned hem band"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/arch-detail-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/arch-detail-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Arch Detail Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-AD-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "camel-scroll-cardigan",
+        "flower-column-cardigan",
+        "mandala-wave-cardigan"
+      ]
+    },
+    {
+      "handle": "navy-geometric-cardigan",
+      "title": "Navy Geometric Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Navy",
+        "hex": "#1F2A44"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A navy round-neck cardigan with white geometric motifs across the chest, diamond studs and a patterned hem and cuffs.",
+      "about": "Navy knit with crisp white geometric motifs set across the chest and a bold pattern repeated at the hem and cuffs. The fit is shaped at the waist and the buttons are dark, so the pattern does the talking. A good choice when you want a deep colour with detail. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "White geometric motifs across the chest",
+        "Diamond studs",
+        "Patterned hem and cuffs",
+        "Two patch pockets, shaped waist"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/navy-geometric-cardigan/card.webp?v=20261023",
+          "w": 785,
+          "h": 900,
+          "alt": "Navy Geometric Cardigan, front view",
+          "srcset": "/img/navy-geometric-cardigan/card-s.webp?v=20261023 523w, /img/navy-geometric-cardigan/card.webp?v=20261023 785w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/navy-geometric-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/navy-geometric-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Navy Geometric Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/navy-geometric-cardigan/detail-1.webp?v=20261021",
+          "w": 430,
+          "h": 273,
+          "alt": "Close-up of the geometric chest motifs"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/navy-geometric-cardigan/detail-2.webp?v=20261021",
+          "w": 516,
+          "h": 248,
+          "alt": "Close-up of the patterned hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/navy-geometric-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/navy-geometric-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Navy Geometric Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-NG-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "mauve-lattice-cardigan",
+        "emerald-eyelet-cardigan",
+        "olive-snowflake-cardigan"
+      ]
+    },
+    {
+      "handle": "mauve-lattice-cardigan",
+      "title": "Mauve Lattice Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Mauve taupe",
+        "hex": "#B39A92"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A mauve-taupe round-neck cardigan with embroidered lattice blocks and leaf accents, a scalloped hem and copper-tone buttons.",
+      "about": "Soft mauve-taupe knit with embroidered lattice blocks and small leaf accents across the chest, repeated in a band at the hem and cuffs. The hem is scalloped and the buttons are copper-tone. It is a quiet colour with a lot of detail to look at. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Embroidered lattice blocks with leaf accents",
+        "Patterned hem and cuff band",
+        "Scalloped hem",
+        "Copper-tone buttons, two pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/mauve-lattice-cardigan/card.webp?v=20261023",
+          "w": 791,
+          "h": 900,
+          "alt": "Mauve Lattice Cardigan, front view",
+          "srcset": "/img/mauve-lattice-cardigan/card-s.webp?v=20261023 527w, /img/mauve-lattice-cardigan/card.webp?v=20261023 791w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/mauve-lattice-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/mauve-lattice-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Mauve Lattice Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/mauve-lattice-cardigan/detail-1.webp?v=20261021",
+          "w": 434,
+          "h": 274,
+          "alt": "Close-up of the lattice and leaf embroidery"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/mauve-lattice-cardigan/detail-2.webp?v=20261021",
+          "w": 522,
+          "h": 250,
+          "alt": "Close-up of the patterned hem band"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/mauve-lattice-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/mauve-lattice-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Mauve Lattice Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-ML-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "plum-floral-cardigan",
+        "dusty-pink-scroll-cardigan",
+        "navy-geometric-cardigan"
+      ]
+    },
+    {
+      "handle": "dusty-pink-scroll-cardigan",
+      "title": "Dusty Pink Scroll Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Dusty pink",
+        "hex": "#C98D96"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A dusty-pink round-neck cardigan with fine scroll and diamond embroidery in wine red and a patterned band at the hem and cuffs.",
+      "about": "A light, feminine cardigan in dusty pink, with fine scroll and diamond embroidery in wine red on the chest and a patterned band at the hem and cuffs. The buttons are rose gold-tone and the waist is shaped. It works over a plain top for the day and a dress in the evening. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Scroll and diamond embroidery in wine red",
+        "Patterned band at the hem and cuffs",
+        "Rose gold-tone buttons",
+        "Round neckline, shaped waist"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/card.webp?v=20261023",
+          "w": 750,
+          "h": 900,
+          "alt": "Dusty Pink Scroll Cardigan, front view",
+          "srcset": "/img/dusty-pink-scroll-cardigan/card-s.webp?v=20261023 500w, /img/dusty-pink-scroll-cardigan/card.webp?v=20261023 750w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Dusty Pink Scroll Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/detail-1.webp?v=20261021",
+          "w": 400,
+          "h": 267,
+          "alt": "Close-up of the scroll and diamond embroidery"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/detail-2.webp?v=20261021",
+          "w": 480,
+          "h": 243,
+          "alt": "Close-up of the patterned hem band"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/dusty-pink-scroll-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Dusty Pink Scroll Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-DS-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "plum-floral-cardigan",
+        "mauve-lattice-cardigan",
+        "flower-column-cardigan"
+      ]
+    },
+    {
+      "handle": "pistachio-teardrop-cardigan",
+      "title": "Pistachio Teardrop Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Pistachio",
+        "hex": "#A6B567"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A pistachio round-neck cardigan with fine scroll embroidery, teardrop motifs at the cuffs and hem and gold-tone buttons.",
+      "about": "A fresh pistachio cardigan with fine scroll embroidery on the chest and a row of teardrop motifs along the hem and cuffs. The buttons are gold-tone and the shape is straight and easy. It looks well with cream, brown and denim. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Fine scroll embroidery on the chest",
+        "Teardrop motifs at the hem and cuffs",
+        "Gold-tone buttons",
+        "Round neckline, two pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/card.webp?v=20261023",
+          "w": 810,
+          "h": 900,
+          "alt": "Pistachio Teardrop Cardigan, front view",
+          "srcset": "/img/pistachio-teardrop-cardigan/card-s.webp?v=20261023 540w, /img/pistachio-teardrop-cardigan/card.webp?v=20261023 810w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Pistachio Teardrop Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/detail-1.webp?v=20261021",
+          "w": 424,
+          "h": 260,
+          "alt": "Close-up of the scroll embroidery"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/detail-2.webp?v=20261021",
+          "w": 508,
+          "h": 237,
+          "alt": "Close-up of the teardrop motifs at the hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/pistachio-teardrop-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Pistachio Teardrop Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-PT-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "pistachio-leaf-cardigan",
+        "olive-snowflake-cardigan",
+        "mandala-wave-cardigan"
+      ]
+    },
+    {
+      "handle": "pistachio-leaf-cardigan",
+      "title": "Pistachio Leaf Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Pistachio",
+        "hex": "#B2BE64"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A pistachio round-neck cardigan with outline leaf embroidery on the chest, leaf motifs along the hem and gold-tone buttons.",
+      "about": "Large outline leaves are embroidered across the left of the chest and small leaf clusters follow the hem and cuffs. The buttons are gold-tone and the two patch pockets are set low. A light, easy cardigan for the cooler months. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Outline leaf embroidery on the chest",
+        "Leaf motifs along the hem and cuffs",
+        "Gold-tone buttons",
+        "Two patch pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/pistachio-leaf-cardigan/card.webp?v=20261023",
+          "w": 791,
+          "h": 900,
+          "alt": "Pistachio Leaf Cardigan, front view",
+          "srcset": "/img/pistachio-leaf-cardigan/card-s.webp?v=20261023 527w, /img/pistachio-leaf-cardigan/card.webp?v=20261023 791w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/pistachio-leaf-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/pistachio-leaf-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Pistachio Leaf Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/pistachio-leaf-cardigan/detail-1.webp?v=20261021",
+          "w": 432,
+          "h": 272,
+          "alt": "Close-up of the embroidered leaves"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/pistachio-leaf-cardigan/detail-2.webp?v=20261021",
+          "w": 518,
+          "h": 248,
+          "alt": "Close-up of the leaf motifs at the hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/pistachio-leaf-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/pistachio-leaf-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Pistachio Leaf Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-PL-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "pistachio-teardrop-cardigan",
+        "olive-snowflake-cardigan",
+        "emerald-eyelet-cardigan"
+      ]
+    },
+    {
+      "handle": "olive-snowflake-cardigan",
+      "title": "Olive Snowflake Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Olive",
+        "hex": "#6E7B3A"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "An olive round-neck cardigan with snowflake embroidery and bead detail on the chest, a diamond band at the hem and a scalloped edge.",
+      "about": "Deep olive knit with two snowflake motifs embroidered in white and dark thread across the chest, finished with beads. A diamond band runs along the hem and cuffs, and the hem is scalloped. It has two patch pockets and a shaped waist. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Snowflake embroidery with bead detail",
+        "Diamond band at the hem and cuffs",
+        "Scalloped hem",
+        "Two patch pockets, shaped waist"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/olive-snowflake-cardigan/card.webp?v=20261023",
+          "w": 811,
+          "h": 900,
+          "alt": "Olive Snowflake Cardigan, front view",
+          "srcset": "/img/olive-snowflake-cardigan/card-s.webp?v=20261023 541w, /img/olive-snowflake-cardigan/card.webp?v=20261023 811w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/olive-snowflake-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/olive-snowflake-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Olive Snowflake Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/olive-snowflake-cardigan/detail-1.webp?v=20261021",
+          "w": 438,
+          "h": 269,
+          "alt": "Close-up of the snowflake embroidery"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/olive-snowflake-cardigan/detail-2.webp?v=20261021",
+          "w": 526,
+          "h": 245,
+          "alt": "Close-up of the diamond band at the hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/olive-snowflake-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/olive-snowflake-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Olive Snowflake Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-OS-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "pistachio-teardrop-cardigan",
+        "emerald-eyelet-cardigan",
+        "navy-geometric-cardigan"
+      ]
+    },
+    {
+      "handle": "camel-scroll-cardigan",
+      "title": "Camel Scroll Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Camel",
+        "hex": "#C59660"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "A camel round-neck cardigan with scroll and flower embroidery on the chest, bead dots, a diamond band at the hem and two patch pockets.",
+      "about": "Scrolls and a single flower are embroidered across the chest of this camel cardigan, with bead dots scattered through the pattern and a diamond band at the hem and cuffs. The two patch pockets and copper-tone buttons keep it practical. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Scroll and flower embroidery on the chest",
+        "Bead dots through the pattern",
+        "Diamond band at the hem and cuffs",
+        "Two patch pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/camel-scroll-cardigan/card.webp?v=20261023",
+          "w": 785,
+          "h": 900,
+          "alt": "Camel Scroll Cardigan, front view",
+          "srcset": "/img/camel-scroll-cardigan/card-s.webp?v=20261023 523w, /img/camel-scroll-cardigan/card.webp?v=20261023 785w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/camel-scroll-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/camel-scroll-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Camel Scroll Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/camel-scroll-cardigan/detail-1.webp?v=20261021",
+          "w": 428,
+          "h": 272,
+          "alt": "Close-up of the scroll and flower embroidery"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/camel-scroll-cardigan/detail-2.webp?v=20261021",
+          "w": 514,
+          "h": 247,
+          "alt": "Close-up of the diamond band at the hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/camel-scroll-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/camel-scroll-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Camel Scroll Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-CS-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "arch-detail-cardigan",
+        "flower-column-cardigan",
+        "mandala-wave-cardigan"
+      ]
+    },
+    {
+      "handle": "emerald-eyelet-cardigan",
+      "title": "Emerald Eyelet Cardigan",
+      "productType": "Embroidered Cardigans",
+      "for": "Women",
+      "tags": [
+        "Women",
+        "Embroidered Cardigans",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Emerald",
+        "hex": "#0F6B52"
+      },
+      "price": 2250,
+      "compareAt": null,
+      "salePct": null,
+      "description": "An emerald round-neck cardigan with a woven lattice panel down the front, eyelet detail, gold-tone buttons and two pockets.",
+      "about": "A deep emerald cardigan with a woven lattice panel running down the front and eyelet details on the chest and pockets. The textured knit has a rich surface, and the gold-tone buttons set it off. A striking piece for winter evenings. Free size: the stretchy knit fits most figures.",
+      "details": [
+        "Woven lattice panel down the front",
+        "Eyelet detail on the chest and pockets",
+        "Gold-tone buttons",
+        "Round neckline, two pockets"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/emerald-eyelet-cardigan/card.webp?v=20261023",
+          "w": 793,
+          "h": 900,
+          "alt": "Emerald Eyelet Cardigan, front view",
+          "srcset": "/img/emerald-eyelet-cardigan/card-s.webp?v=20261023 529w, /img/emerald-eyelet-cardigan/card.webp?v=20261023 793w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/emerald-eyelet-cardigan/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/emerald-eyelet-cardigan/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Emerald Eyelet Cardigan on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/emerald-eyelet-cardigan/detail-1.webp?v=20261021",
+          "w": 442,
+          "h": 278,
+          "alt": "Close-up of the woven lattice panel"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/emerald-eyelet-cardigan/detail-2.webp?v=20261021",
+          "w": 530,
+          "h": 253,
+          "alt": "Close-up of the pocket and hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/emerald-eyelet-cardigan/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/emerald-eyelet-cardigan/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 824,
+          "alt": "The VELNOR7 collar tag sewn into the Emerald Eyelet Cardigan's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "Free size",
+          "sku": "VN-W-EE-FS",
+          "inventory": 15
+        }
+      ],
+      "related": [
+        "olive-snowflake-cardigan",
+        "navy-geometric-cardigan",
+        "pistachio-leaf-cardigan"
+      ]
+    },
+    {
+      "handle": "striped-v-neck-vest",
+      "title": "Striped V-Neck Vest",
+      "productType": "Sweaters",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Sweaters",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Grey",
+        "hex": "#8C8E92"
+      },
+      "price": 3200,
+      "compareAt": 4000,
+      "salePct": 20,
+      "description": "A men's sleeveless V-neck knit vest with fine dotted stripes across the body and a ribbed neck, armholes and hem. In grey, brown and black.",
+      "about": "A sleeveless knit vest with a ribbed V-neck and fine dotted stripes across the body, made to wear over a shirt or a polo. The ribbed armholes and hem hold the shape. It comes in grey, brown and black. Check the size guide to find your size.",
+      "details": [
+        "Ribbed V-neck, armholes and hem",
+        "Fine dotted stripes across the body",
+        "Sleeveless, for layering over a shirt",
+        "Grey, brown and black"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "colours": [
+        {
+          "key": "grey",
+          "name": "Grey",
+          "hex": "#8C8E92",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/card.webp?v=20261023",
+              "w": 599,
+              "h": 900,
+              "alt": "Striped V-Neck Vest in grey, front view",
+              "srcset": "/img/striped-v-neck-vest/grey/card-s.webp?v=20261023 399w, /img/striped-v-neck-vest/grey/card.webp?v=20261023 599w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/striped-v-neck-vest/grey/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Striped V-Neck Vest in grey on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/detail-1.webp?v=20261021",
+              "w": 327,
+              "h": 278,
+              "alt": "Close-up of the ribbed V-neck and stripes"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/detail-2.webp?v=20261021",
+              "w": 391,
+              "h": 252,
+              "alt": "Close-up of the dotted stripes and ribbed hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/striped-v-neck-vest/grey/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Striped V-Neck Vest in grey's neckline"
+            }
+          ]
+        },
+        {
+          "key": "brown",
+          "name": "Brown",
+          "hex": "#6B4A3C",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/brown/card.webp?v=20261023",
+              "w": 603,
+              "h": 900,
+              "alt": "Striped V-Neck Vest in brown, front view",
+              "srcset": "/img/striped-v-neck-vest/brown/card-s.webp?v=20261023 402w, /img/striped-v-neck-vest/brown/card.webp?v=20261023 603w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/brown/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/striped-v-neck-vest/brown/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Striped V-Neck Vest in brown on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/brown/detail-1.webp?v=20261021",
+              "w": 336,
+              "h": 283,
+              "alt": "Close-up of the ribbed V-neck and stripes"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/brown/detail-2.webp?v=20261021",
+              "w": 402,
+              "h": 259,
+              "alt": "Close-up of the dotted stripes and ribbed hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/brown/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/striped-v-neck-vest/brown/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Striped V-Neck Vest in brown's neckline"
+            }
+          ]
+        },
+        {
+          "key": "black",
+          "name": "Black",
+          "hex": "#1E1E20",
+          "images": [
+            {
+              "kind": "cutout",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/black/card.webp?v=20261023",
+              "w": 604,
+              "h": 900,
+              "alt": "Striped V-Neck Vest in black, front view",
+              "srcset": "/img/striped-v-neck-vest/black/card-s.webp?v=20261023 403w, /img/striped-v-neck-vest/black/card.webp?v=20261023 604w"
+            },
+            {
+              "kind": "studio",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/black/studio.webp?v=20261021",
+              "light": "https://www.velnor7.com/img/striped-v-neck-vest/black/studio-light.webp?v=20261023",
+              "w": 1200,
+              "h": 1500,
+              "alt": "Striped V-Neck Vest in black on a studio backdrop"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/black/detail-1.webp?v=20261021",
+              "w": 338,
+              "h": 286,
+              "alt": "Close-up of the ribbed V-neck and stripes"
+            },
+            {
+              "kind": "detail",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/black/detail-2.webp?v=20261021",
+              "w": 406,
+              "h": 260,
+              "alt": "Close-up of the dotted stripes and ribbed hem"
+            },
+            {
+              "kind": "tag",
+              "src": "https://www.velnor7.com/img/striped-v-neck-vest/black/tag.webp?v=20261022",
+              "light": "https://www.velnor7.com/img/striped-v-neck-vest/black/tag-light.webp?v=20261023",
+              "w": 1100,
+              "h": 825,
+              "alt": "The VELNOR7 collar tag sewn into the Striped V-Neck Vest in black's neckline"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/card.webp?v=20261023",
+          "w": 599,
+          "h": 900,
+          "alt": "Striped V-Neck Vest in grey, front view",
+          "srcset": "/img/striped-v-neck-vest/grey/card-s.webp?v=20261023 399w, /img/striped-v-neck-vest/grey/card.webp?v=20261023 599w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/striped-v-neck-vest/grey/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Striped V-Neck Vest in grey on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/detail-1.webp?v=20261021",
+          "w": 327,
+          "h": 278,
+          "alt": "Close-up of the ribbed V-neck and stripes"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/detail-2.webp?v=20261021",
+          "w": 391,
+          "h": 252,
+          "alt": "Close-up of the dotted stripes and ribbed hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/striped-v-neck-vest/grey/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/striped-v-neck-vest/grey/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Striped V-Neck Vest in grey's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-SV-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-SV-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-SV-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-SV-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-SV-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "taupe-panel-v-neck-sweater",
+        "textured-zip-bomber",
+        "charcoal-colourblock-crew"
+      ]
+    },
+    {
+      "handle": "textured-zip-bomber",
+      "title": "Textured Zip Bomber",
+      "productType": "Cardigans",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Grey taupe",
+        "hex": "#9C9288"
+      },
+      "price": 5000,
+      "compareAt": 6250,
+      "salePct": 20,
+      "description": "A men's zip-front knit bomber in grey taupe with a wavy rib pattern, diagonal panels on the sleeves and a ribbed collar, cuffs and hem.",
+      "about": "A knit bomber in grey taupe, with a wavy rib pattern down the front, diagonal panels on the sleeves and a ribbed stand collar, cuffs and hem. The zip front makes it easy to wear over a shirt or a tee. Check the size guide to find your size.",
+      "details": [
+        "Zip front",
+        "Wavy rib pattern on the body",
+        "Diagonal panels on the sleeves",
+        "Ribbed stand collar, cuffs and hem"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/textured-zip-bomber/card.webp?v=20261023",
+          "w": 813,
+          "h": 900,
+          "alt": "Textured Zip Bomber, front view",
+          "srcset": "/img/textured-zip-bomber/card-s.webp?v=20261023 542w, /img/textured-zip-bomber/card.webp?v=20261023 813w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/textured-zip-bomber/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/textured-zip-bomber/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Textured Zip Bomber on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/textured-zip-bomber/detail-1.webp?v=20261021",
+          "w": 440,
+          "h": 269,
+          "alt": "Close-up of the wavy rib pattern and zip"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/textured-zip-bomber/detail-2.webp?v=20261021",
+          "w": 528,
+          "h": 245,
+          "alt": "Close-up of the ribbed hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/textured-zip-bomber/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/textured-zip-bomber/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Textured Zip Bomber's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-TZ-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-TZ-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-TZ-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-TZ-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-TZ-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "brown-tweed-zip-bomber",
+        "diamond-jacquard-zip-jacket",
+        "taupe-panel-v-neck-sweater"
+      ]
+    },
+    {
+      "handle": "brown-tweed-zip-bomber",
+      "title": "Brown Tweed Zip Bomber",
+      "productType": "Cardigans",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Brown",
+        "hex": "#5A3F2E"
+      },
+      "price": 5000,
+      "compareAt": 6250,
+      "salePct": 20,
+      "description": "A men's zip-front knit bomber in brown with a flecked tweed-effect body, plain dark brown front panel and a ribbed collar, cuffs and hem.",
+      "about": "A knit bomber in brown with a flecked tweed-effect body and sleeves, a plain dark brown panel either side of the zip and a ribbed collar, cuffs and hem. It sits well over a shirt in the colder months. Check the size guide to find your size.",
+      "details": [
+        "Zip front",
+        "Flecked tweed-effect knit",
+        "Dark brown front panel",
+        "Ribbed stand collar, cuffs and hem"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/brown-tweed-zip-bomber/card.webp?v=20261023",
+          "w": 812,
+          "h": 900,
+          "alt": "Brown Tweed Zip Bomber, front view",
+          "srcset": "/img/brown-tweed-zip-bomber/card-s.webp?v=20261023 541w, /img/brown-tweed-zip-bomber/card.webp?v=20261023 812w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/brown-tweed-zip-bomber/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/brown-tweed-zip-bomber/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Brown Tweed Zip Bomber on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/brown-tweed-zip-bomber/detail-1.webp?v=20261021",
+          "w": 440,
+          "h": 269,
+          "alt": "Close-up of the tweed-effect knit and zip"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/brown-tweed-zip-bomber/detail-2.webp?v=20261021",
+          "w": 528,
+          "h": 245,
+          "alt": "Close-up of the ribbed cuff and hem"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/brown-tweed-zip-bomber/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/brown-tweed-zip-bomber/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Brown Tweed Zip Bomber's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-BT-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-BT-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-BT-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-BT-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-BT-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "textured-zip-bomber",
+        "diamond-jacquard-zip-jacket",
+        "striped-v-neck-vest"
+      ]
+    },
+    {
+      "handle": "taupe-panel-v-neck-sweater",
+      "title": "Taupe Panel V-Neck Sweater",
+      "productType": "Sweaters",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Sweaters",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Taupe",
+        "hex": "#8A7B6E"
+      },
+      "price": 4000,
+      "compareAt": 5000,
+      "salePct": 20,
+      "description": "A men's taupe V-neck sweater with raised panel lines and a diamond detail on the chest, and a ribbed neck, cuffs and hem.",
+      "about": "A plain-looking sweater with quiet detail: raised panel lines run across the chest and body, with a small diamond at the centre. The neck, cuffs and hem are ribbed. Wear it over a collared shirt or on its own. Check the size guide to find your size.",
+      "details": [
+        "Raised panel lines with a diamond detail",
+        "Ribbed V-neck, cuffs and hem",
+        "Straight, easy fit"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/card.webp?v=20261023",
+          "w": 819,
+          "h": 900,
+          "alt": "Taupe Panel V-Neck Sweater, front view",
+          "srcset": "/img/taupe-panel-v-neck-sweater/card-s.webp?v=20261023 546w, /img/taupe-panel-v-neck-sweater/card.webp?v=20261023 819w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Taupe Panel V-Neck Sweater on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/detail-1.webp?v=20261021",
+          "w": 443,
+          "h": 269,
+          "alt": "Close-up of the panel lines and V-neck"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/detail-2.webp?v=20261021",
+          "w": 531,
+          "h": 244,
+          "alt": "Close-up of the ribbed hem and cuff"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/taupe-panel-v-neck-sweater/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Taupe Panel V-Neck Sweater's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-TP-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-TP-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-TP-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-TP-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-TP-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "striped-v-neck-vest",
+        "textured-zip-bomber",
+        "textured-v-neck-sweater"
+      ]
+    },
+    {
+      "handle": "diamond-jacquard-zip-jacket",
+      "title": "Diamond Jacquard Zip Jacket",
+      "productType": "Cardigans",
+      "for": "Men",
+      "tags": [
+        "Men",
+        "Cardigans",
+        "New in",
+        "Winter 26"
+      ],
+      "isNew": true,
+      "colour": {
+        "name": "Taupe",
+        "hex": "#B3A594"
+      },
+      "price": 6000,
+      "compareAt": 7500,
+      "salePct": 20,
+      "description": "A men's zip-front knit jacket in taupe and cream with an all-over diamond jacquard pattern, a stand collar and a ribbed hem and cuffs.",
+      "about": "An all-over diamond jacquard in taupe and cream, with a stand collar, a full-length zip and a ribbed hem and cuffs. Plain taupe side panels and pockets keep the pattern from feeling busy. A good layer for the colder months. Check the size guide to find your size.",
+      "details": [
+        "All-over diamond jacquard pattern",
+        "Full-length zip, stand collar",
+        "Plain side panels with pockets",
+        "Ribbed hem and cuffs"
+      ],
+      "care": "Hand wash cold, dry flat in shade, never wring.",
+      "images": [
+        {
+          "kind": "cutout",
+          "src": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/card.webp?v=20261023",
+          "w": 759,
+          "h": 900,
+          "alt": "Diamond Jacquard Zip Jacket, front view",
+          "srcset": "/img/diamond-jacquard-zip-jacket/card-s.webp?v=20261023 506w, /img/diamond-jacquard-zip-jacket/card.webp?v=20261023 759w"
+        },
+        {
+          "kind": "studio",
+          "src": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/studio.webp?v=20261021",
+          "light": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/studio-light.webp?v=20261023",
+          "w": 1200,
+          "h": 1500,
+          "alt": "Diamond Jacquard Zip Jacket on a studio backdrop"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/detail-1.webp?v=20261021",
+          "w": 423,
+          "h": 279,
+          "alt": "Close-up of the diamond jacquard and zip"
+        },
+        {
+          "kind": "detail",
+          "src": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/detail-2.webp?v=20261021",
+          "w": 507,
+          "h": 254,
+          "alt": "Close-up of the ribbed hem and pocket"
+        },
+        {
+          "kind": "tag",
+          "src": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/tag.webp?v=20261022",
+          "light": "https://www.velnor7.com/img/diamond-jacquard-zip-jacket/tag-light.webp?v=20261023",
+          "w": 1100,
+          "h": 825,
+          "alt": "The VELNOR7 collar tag sewn into the Diamond Jacquard Zip Jacket's neckline"
+        }
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "sku": "VN-M-DJ-S",
+          "inventory": 3
+        },
+        {
+          "size": "M",
+          "sku": "VN-M-DJ-M",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "sku": "VN-M-DJ-L",
+          "inventory": 3
+        },
+        {
+          "size": "XL",
+          "sku": "VN-M-DJ-XL",
+          "inventory": 3
+        },
+        {
+          "size": "XXL",
+          "sku": "VN-M-DJ-XXL",
+          "inventory": 3
+        }
+      ],
+      "related": [
+        "textured-zip-bomber",
+        "brown-tweed-zip-bomber",
+        "striped-v-neck-vest"
+      ]
+    }
+  ]
+}
