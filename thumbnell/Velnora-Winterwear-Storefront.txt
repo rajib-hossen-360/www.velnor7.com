@@ -1,0 +1,40 @@
+PRODUCT NAME: Velnora Winterwear Storefront
+
+CATEGORY: E-commerce / Fashion & Apparel
+
+PRICE (USD): $59
+
+COMPARE-AT PRICE (USD): $89
+
+RATING: 0
+
+REVIEW COUNT: 0
+
+CARD TAG: Featured
+
+DESCRIPTION: A refined winterwear storefront for coats, cardigans, and knitwear, featuring editorial product discovery and a polished seasonal shopping experience. Built with interactive shopping tools and WhatsApp order handoff.
+
+HERO TAGLINE: Crafted for Cold. Designed to Be Remembered.
+
+TECHNOLOGIES: Next.js, React, TypeScript, Tailwind CSS
+
+INCLUDED PAGES:
+- Home
+- Shop
+
+FEATURES:
+- Animated 3D product rack showcase
+- Category and gender filtering
+- New arrivals and seasonal sale sections
+- Product quick-view with size and colour selection
+- Shopping bag with quantity controls
+- Persistent wishlist and cart
+- WhatsApp order handoff
+- Product search and sorting
+- Winter care and sizing guides
+
+INCLUDED WITH YOUR PURCHASE:
+- 2 implemented storefront pages
+- Responsive winterwear shopping design
+- Reusable product cards, drawers, and modal components
+- Sample product catalogue with images, variants, and category data
