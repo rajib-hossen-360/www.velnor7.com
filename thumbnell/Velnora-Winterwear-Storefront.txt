@@ -22,8 +22,7 @@ INCLUDED PAGES:
 - Home
 - Shop
 
-FEATURES:
-- Animated 3D product rack showcase
+FEATURES: Animated 3D product rack showcase
 - Category and gender filtering
 - New arrivals and seasonal sale sections
 - Product quick-view with size and colour selection
